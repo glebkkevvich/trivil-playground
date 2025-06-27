@@ -1,0 +1,28 @@
+.token-keyword {
+  font-weight: bold;
+}
+
+.token-user-variable {
+  font-weight: 500;
+}
+
+.token-user-function {
+  font-weight: 500;
+}
+
+.token-imported-class {
+  font-weight: 500;
+}
+
+.token-builtin-type {
+  font-weight: bold;
+}
+
+.token-comment {
+  font-style: italic;
+}
+
+[data-theme="light"] .token-error {
+  color: #e51400 !important;
+}
+
